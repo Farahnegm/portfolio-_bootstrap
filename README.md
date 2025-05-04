@@ -14,6 +14,7 @@ The goal of this project is to create a clean, professional, and user-friendly i
 ## 🚀 How to Use
 1-Clone the repository:
 git clone https://github.com/Farahnegm/portfolio-_bootstrap.git
+
 2-Navigate to the project folder:
 cd bootstrap_proj
 
